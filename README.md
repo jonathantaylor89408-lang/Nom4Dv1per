@@ -1,7 +1,6 @@
 # Nom4dv1per Package Installation
 
-
-A clean, secure terminal-based environment configuration manager and package loader designed for immediate deployment and zero-filler output. 
+A clean, secure terminal-based environment configuration manager and package loader designed for immediate deployment and zero-filler output.
 
 ## Installation
 
@@ -11,9 +10,3 @@ cd Nom4dv1per
 chmod +x setup.sh
 ./setup.sh
 
-#Basic usage
-# Initialize the primary loader
-./setup.sh --init
-
-# Deploy target packages
-./setup.sh --deploy standard
