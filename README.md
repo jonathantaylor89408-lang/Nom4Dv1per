@@ -10,3 +10,9 @@ cd Nom4dv1per
 chmod +x setup.sh
 ./setup.sh
 
+#Basic usage
+# Initialize the primary loader
+./setup.sh --init
+
+# Deploy target packages
+./setup.sh --deploy standard
