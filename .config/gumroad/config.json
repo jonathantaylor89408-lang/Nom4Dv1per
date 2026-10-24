@@ -1,7 +1,10 @@
 {
-  "product_name": "ViperGearLab Tactical Utility Suite",
-  "product_id": "GjmZ16QXHByaMYq6ocSBVw==",
-  "tier": "Core",
-  "currency": "USD",
-  "price": 25.00
+  "product_name": "ViperGearLab Sample",
+  "product_id": "tvzebu",
+  "permalink": "https://nomadone.gumroad.com/l/tvzebu",
+  "price": 1.0,
+  "core_price": 29,
+  "commander_price": 59,
+  "store": "https://nomadone.gumroad.com/",
+  "desk": "https://vipergearlabs.grok.me/"
 }

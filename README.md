@@ -1,18 +1,12 @@
-# Nom4dv1per Package Installation
+# Nom4Dv1per
 
-A clean, secure terminal-based environment configuration manager and package loader designed for immediate deployment and zero-filler output.
+Desk kit. It makes a local folder. It does not scan.
 
-## Installation
+Live desk: https://vipergearlabs.grok.me/
+Sample: https://nomadone.gumroad.com/l/tvzebu
 
-```bash
-git clone [https://github.com/jonathantaylor89408-lang/Nom4dv1per.git](https://github.com/jonathantaylor89408-lang/Nom4dv1per.git)
-cd Nom4dv1per
-chmod +x setup.sh
-./setup.sh
-
-#Basic usage
-# Initialize the primary loader
+git clone https://github.com/jonathantaylor89408-lang/Nom4Dv1per.git
+cd Nom4Dv1per
+chmod +x setup.sh masterscript.sh
 ./setup.sh --init
-
-# Deploy target packages
 ./setup.sh --deploy standard
